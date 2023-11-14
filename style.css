@@ -32,7 +32,7 @@ body{
 .main-container{
     max-width: 920px;
     background-color: white;
-    height: 720px;
+    height: 655px;
     margin-left: 25%;
     margin-top: 30px;
     border-radius: 1%;    
@@ -70,4 +70,132 @@ body{
     margin: 10px 0;
     border: 1px solid #F6F8F9;
     
+}
+
+h3{
+    color: black;
+    display: inline;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.check{
+    border: 1px solid green;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    line-height: 20px;
+    text-align: center;
+    margin-left: 25px;
+}
+
+.editorial{
+    background-color: #45ABEA;
+    text-decoration: none;
+    border-radius: 35%;
+    display:inline-block;
+    width: 60px;
+    height: 32px;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 0.9rem;
+}
+
+.q1-goals{
+    background-color: #9C72E4;
+    text-decoration: none;
+    border-radius: 35%;
+    display:inline-block;
+    width: 65px;
+    height: 32px;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 0.9rem;
+    margin-top: 15px;
+}
+
+.x{
+    border: 1px solid #FF0000;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    line-height: 20px;
+    text-align: center;
+    margin-left: 25px;
+}
+
+.recruiting{
+    background-color: #64C0A9;
+    text-decoration: none;
+    border-radius: 35%;
+    display:inline-block;
+    width: 85px;
+    height: 32px;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 0.9rem;
+    margin-top: 15px;
+}
+
+.mobile{
+    background-color: #F29E33;
+    text-decoration: none;
+    border-radius: 35%;
+    display:inline-block;
+    width: 60px;
+    height: 32px;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 0.9rem;
+    margin-top: 15px;
+}
+
+.website{
+    background-color: #D863A1;
+    text-decoration: none;
+    border-radius: 35%;
+    display:inline-block;
+    width: 65px;
+    height: 32px;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 0.9rem;
+    margin-top: 15px;
+}
+
+.sales{
+    background-color: #B0C926;
+    text-decoration: none;
+    border-radius: 35%;
+    display:inline-block;
+    width: 60px;
+    height: 32px;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 0.9rem;
+    margin-top: 15px;
+}
+
+.editorial-orange{
+    background-color: #F29E33;
+    text-decoration: none;
+    border-radius: 35%;
+    display:inline-block;
+    width: 60px;
+    height: 32px;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 0.9rem;
+    margin-top: 15px;
 }
