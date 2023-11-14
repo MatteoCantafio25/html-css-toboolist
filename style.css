@@ -41,7 +41,7 @@ body{
 .add-task{
     background-color: #1E90FF;
     text-decoration: none;
-    border-radius: 7%;
+    border-radius: 7px;
     display:inline-block;
     width: 90px;
     height: 35px;
@@ -55,7 +55,7 @@ body{
 .add-section{
     background-color: white;
     text-decoration: none;
-    border-radius: 7%;
+    border-radius: 7px;
     display:inline-block;
     width: 120px;
     height: 35px;
@@ -83,7 +83,7 @@ h3{
 
 .check{
     border: 1px solid green;
-    border-radius: 50%;
+    border-radius: 50px;
     width: 20px;
     height: 20px;
     display: inline-block;
@@ -95,7 +95,7 @@ h3{
 .editorial{
     background-color: #45ABEA;
     text-decoration: none;
-    border-radius: 35%;
+    border-radius: 35px;
     display:inline-block;
     width: 60px;
     height: 32px;
@@ -108,7 +108,7 @@ h3{
 .q1-goals{
     background-color: #9C72E4;
     text-decoration: none;
-    border-radius: 35%;
+    border-radius: 35px;
     display:inline-block;
     width: 65px;
     height: 32px;
@@ -121,7 +121,7 @@ h3{
 
 .x{
     border: 1px solid #FF0000;
-    border-radius: 50%;
+    border-radius: 50px;
     width: 20px;
     height: 20px;
     display: inline-block;
@@ -133,7 +133,7 @@ h3{
 .recruiting{
     background-color: #64C0A9;
     text-decoration: none;
-    border-radius: 35%;
+    border-radius: 35px;
     display:inline-block;
     width: 85px;
     height: 32px;
@@ -147,7 +147,7 @@ h3{
 .mobile{
     background-color: #F29E33;
     text-decoration: none;
-    border-radius: 35%;
+    border-radius: 35px;
     display:inline-block;
     width: 60px;
     height: 32px;
@@ -161,7 +161,7 @@ h3{
 .website{
     background-color: #D863A1;
     text-decoration: none;
-    border-radius: 35%;
+    border-radius: 35px;
     display:inline-block;
     width: 65px;
     height: 32px;
@@ -175,7 +175,7 @@ h3{
 .sales{
     background-color: #B0C926;
     text-decoration: none;
-    border-radius: 35%;
+    border-radius: 35px;
     display:inline-block;
     width: 60px;
     height: 32px;
@@ -189,7 +189,7 @@ h3{
 .editorial-orange{
     background-color: #F29E33;
     text-decoration: none;
-    border-radius: 35%;
+    border-radius: 35px;
     display:inline-block;
     width: 60px;
     height: 32px;
