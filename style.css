@@ -5,3 +5,69 @@
     box-sizing: border-box;
 }
 
+.header-container{
+    height: 100px;
+    background-color: white;
+    line-height: 100px;
+}
+
+body{
+    background-color: #F6F8F9;
+    font-family: Arial,sans-serif
+}
+
+#logo{
+    height: 65px;
+    vertical-align: middle;
+    padding-left: 20px;
+}
+
+.title{
+    display: inline;
+    font-size: 50px;
+    vertical-align: middle;
+    font-weight: 1000;
+}
+
+.main-container{
+    max-width: 920px;
+    background-color: white;
+    height: 720px;
+    margin-left: 25%;
+    margin-top: 30px;
+    border-radius: 1%;    
+}
+
+.add-task{
+    background-color: #1E90FF;
+    text-decoration: none;
+    border-radius: 7%;
+    display:inline-block;
+    width: 90px;
+    height: 35px;
+    color: white;
+    text-align: center;
+    line-height: 35px;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+
+.add-section{
+    background-color: white;
+    text-decoration: none;
+    border-radius: 7%;
+    display:inline-block;
+    width: 120px;
+    height: 35px;
+    color: #808080;
+    text-align: center;
+    line-height: 35px;
+    border: 1px solid;
+    
+}
+
+.separator{
+    margin: 10px 0;
+    border: 1px solid #F6F8F9;
+    
+}
